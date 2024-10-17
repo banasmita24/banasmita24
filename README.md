@@ -24,3 +24,4 @@
     <img src = "https://skillicons.dev/icons?i=cpp,cmake,css,django,flask,git,html,raspberrypi,sqlite,vscode"/>
   </a>
 </div>
+[![An image of @banasmita24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banasmita24)](https://holopin.io/@banasmita24)
