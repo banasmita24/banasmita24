@@ -24,5 +24,3 @@
     <img src = "https://skillicons.dev/icons?i=cpp,cmake,css,django,flask,git,html,raspberrypi,sqlite,vscode"/>
   </a>
 </div>
-  [![![image](https://github.com/user-attachments/assets/51398e19-94fa-41b0-8795-e78efe812115)
-](https://holopin.me/banasmita24)](https://holopin.io/@banasmita24)
