@@ -24,7 +24,7 @@
     <img src = "https://skillicons.dev/icons?i=cpp,cmake,css,django,flask,git,html,raspberrypi,sqlite,vscode"/>
   </a>
 </div>
-</hr>
+<hr>
 <br>
 <div align="center">
 
