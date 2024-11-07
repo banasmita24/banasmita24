@@ -12,7 +12,7 @@
   <a href = "https://www.linkedin.com/in/banasmita-jena-z2405/">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank">
   </a>
-  <a href = "https://t.me/Jena2495">
+  <a href = "https://t.me/Sobha24">
     <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target = "_blank">
   </a>
 </div>
