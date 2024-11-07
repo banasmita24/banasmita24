@@ -32,9 +32,9 @@
 
 </div>
 
-## GSSOC(24) Badges 🪶
+## GSSOC-EXTD(24) Badges 🪶
 
-Banasmita's GSSOC Profile: [ Click Here!!! ](https://gssoc.girlscript.tech/leaderboard?year=2024&username=banasmita24)
+Banasmita's GSSOC-EXTD Profile: [ Click Here!!! ](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=banasmita24)
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
