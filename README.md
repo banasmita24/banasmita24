@@ -33,11 +33,6 @@
 
 [![image](https://github.com/user-attachments/assets/b99a972f-0f77-4536-b28a-2e6d9399da39)](https://holopin.io/@banasmita24")
 
-<a href="https://holopin.io/@banasmita24" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b99a972f-0f77-4536-b28a-2e6d9399da39" alt="Holopin Badge">
-</a>
-
-
 </div>
 
 ## GSSOC-EXTD(24) Badges 🪶
