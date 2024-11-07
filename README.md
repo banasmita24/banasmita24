@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![image](https://github.com/user-attachments/assets/b99a972f-0f77-4536-b28a-2e6d9399da39)](https://holopin.io/@banasmita24)
+[![image](https://github.com/user-attachments/assets/b99a972f-0f77-4536-b28a-2e6d9399da39)](https://holopin.io/@banasmita24 target="_blank")
 
 </div>
 
