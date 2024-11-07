@@ -43,5 +43,5 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 </div>
 
-https://gssoc.girlscript.tech/leaderboard?year=<2024>&username=<banasmita24>
+https://gssoc.girlscript.tech/leaderboard?year=2024&username=banasmita24
 
