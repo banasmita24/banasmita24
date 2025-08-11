@@ -48,3 +48,14 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 </div>
 
+## GSSOC'25 Project Admin
+
+Accepted Project Repo: [ApplyNest-A-Flask-Application](https://github.com/banasmita24/ApplyNest-A-Flask-Application)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/901dd2e6-907d-40fd-a1f4-c360c3b4ab32" alt="WhatsApp Image" width="500">
+  <img src="https://github.com/user-attachments/assets/38f103d1-4d88-4854-863d-1d3e23172cff" alt="Project Admin's badge" width="285">
+</div>
+
+
+
