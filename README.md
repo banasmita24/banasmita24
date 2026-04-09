@@ -6,7 +6,7 @@
 <h3 align = "center">Pursuing B.Tech(Hons.) in Computer Science and Engineering</h3>
 <br>
 <div align="center">
-  <a href="https://portfolio--banasmitajena24.replit.app/" target="_blank">
+  <a href="https://www.banasmitajena.page/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:banasmitajena2405@gmail.com">
